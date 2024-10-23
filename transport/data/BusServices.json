@@ -1,0 +1,69 @@
+{
+    "value": [
+        {
+            "ServiceNo": "84W",
+            "Operator": "GAS",
+            "Direction": 1,
+            "Category": "FEEDER",
+            "Origin": "Punggol Temp Int",
+            "Destination": "Punggol Temp Int",
+            "AM_Peak_Freq": "5-08",
+            "AM_Offpeak_Freq": "8-12",
+            "PM_Peak_Freq": "8-10",
+            "PM_Offpeak_Freq": "09-14",
+            "Loop": "Yes"
+        },
+        {
+            "ServiceNo": "84A",
+            "Operator": "GAS",
+            "Direction": 1,
+            "Category": "FEEDER",
+            "Origin": "Punggol Temp Int",
+            "Destination": "Punggol Coast Stn",
+            "AM_Peak_Freq": "10-10",
+            "AM_Offpeak_Freq": "8-11",
+            "PM_Peak_Freq": "4-08",
+            "PM_Offpeak_Freq": "9-12",
+            "Loop": ""
+        },
+        {
+            "ServiceNo": "84G",
+            "Operator": "GAS",
+            "Direction": 1,
+            "Category": "FEEDER",
+            "Origin": "Punggol Temp Int",
+            "Destination": "Punggol Temp Int",
+            "AM_Peak_Freq": "14-16",
+            "AM_Offpeak_Freq": "-",
+            "PM_Peak_Freq": "-",
+            "PM_Offpeak_Freq": "-",
+            "Loop": "Yes"
+        },
+        {
+            "ServiceNo": "50",
+            "Operator": "GAS",
+            "Direction": 1,
+            "Category": "TRUNK",
+            "Origin": "Bishan Int",
+            "Destination": "Punggol Temp Int",
+            "AM_Peak_Freq": "-",
+            "AM_Offpeak_Freq": "-",
+            "PM_Peak_Freq": "24-57",
+            "PM_Offpeak_Freq": "-",
+            "Loop": ""
+        },
+        {
+            "ServiceNo": "50",
+            "Operator": "GAS",
+            "Direction": 2,
+            "Category": "TRUNK",
+            "Origin": "Punggol Temp Int",
+            "Destination": "Bishan Int",
+            "AM_Peak_Freq": "16-08",
+            "AM_Offpeak_Freq": "18-12",
+            "PM_Peak_Freq": "17-12",
+            "PM_Offpeak_Freq": "15-17",
+            "Loop": ""
+        }
+    ]
+}

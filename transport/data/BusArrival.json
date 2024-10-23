@@ -1,0 +1,174 @@
+{
+  "busStops": [
+  {
+        "BusStopCode": "65721",
+        "Services": [
+          {
+              "ServiceNo": "84G",
+              "Operator": "GAS",
+              "NextBus": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:27:15+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.416004913706374",
+                  "Longitude": "103.91273342384684",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus2": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:42:48+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4180466063502999",
+                  "Longitude": "103.91180757351978",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus3": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:49:31+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4164001217746616",
+                  "Longitude": "103.90942814456456",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "SD"
+              }
+          }
+        ]
+  },
+  {
+        "BusStopCode": "65009",
+        "Services": [
+          {
+              "ServiceNo": "50",
+              "Operator": "GAS",
+              "NextBus": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Bishan Int",
+                  "EstimatedArrival": "2024-10-22T18:20:15+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.416004913706374",
+                  "Longitude": "103.91273342384684",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus2": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Bishan Int",
+                  "EstimatedArrival": "2024-10-22T18:30:48+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4180466063502999",
+                  "Longitude": "103.91180757351978",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus3": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Bishan Int",
+                  "EstimatedArrival": "2024-10-22T18:40:31+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4164001217746616",
+                  "Longitude": "103.90942814456456",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "SD"
+              }
+          },
+          {
+              "ServiceNo": "84W",
+              "Operator": "GAS",
+              "NextBus": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:17:15+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.416004913706374",
+                  "Longitude": "103.91273342384684",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus2": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:22:48+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4180466063502999",
+                  "Longitude": "103.91180757351978",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus3": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:39:31+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4164001217746616",
+                  "Longitude": "103.90942814456456",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "SD"
+              }
+          },
+          {
+              "ServiceNo": "84G",
+              "Operator": "GAS",
+              "NextBus": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:07:15+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.416004913706374",
+                  "Longitude": "103.91273342384684",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus2": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:15:48+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4180466063502999",
+                  "Longitude": "103.91180757351978",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "DD"
+              },
+              "NextBus3": {
+                  "Origin": "Punggol Temp Int",
+                  "Destination": "Punggol Temp Int",
+                  "EstimatedArrival": "2024-10-22T18:29:31+08:00",
+                  "Monitored": 1,
+                  "Latitude": "1.4164001217746616",
+                  "Longitude": "103.90942814456456",
+                  "VisitNumber": "1",
+                  "Load": "Seats Avalable",
+                  "Feature": "WAB",
+                  "Type": "SD"
+              }
+          }
+      ]
+    }
+  ]
+}

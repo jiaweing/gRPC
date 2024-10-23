@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+package transport;
+
+service PublicTransport {
+  // Get bus arrival timings
+  rpc GetBusArrival (BusArrivalRequest) returns (BusArrivalResponse);
+
+  // Get Bus Info details
+  rpc GetBusServiceInfo (BusServiceRequest) returns (BusServiceResponse);
+}
+
+// Request for bus arrival timings
+message BusArrivalRequest {
+  string bus_stop_code = 1;
+  string service_no = 2;
+}
+
+// Response for bus arrival timings
+message BusArrivalResponse {
+  string service_no = 1;
+  string next_arrival_time = 2;
+  string next_arrival_time2 = 3;
+  string load = 4;
+  string bus_type = 5;
+}
+
+// Request for Bus Service info
+message BusServiceRequest {
+  string bus_service_code = 1;
+}
+
+// Response for Bus Service info
+message BusServiceResponse {
+  string bus_service_no = 1;
+  string origin_name = 2;
+  string destination_name = 3;
+  string loop = 4;
+  string operator = 5;
+}
